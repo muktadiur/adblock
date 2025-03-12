@@ -6,7 +6,6 @@
     "permissions": [
         "declarativeNetRequest",
         "declarativeNetRequestFeedback",
-        "activeTab",
         "storage"
     ],
     "host_permissions": [

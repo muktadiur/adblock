@@ -20,7 +20,7 @@ Blockor Adblock uses **Chrome's declarativeNetRequest API** to block ad-related 
 
 ## 📄 Permissions Explained
 - `declarativeNetRequest`: Required to block ad-related network requests.
-- `activeTab`: Used to control ad blocking on the currently active tab.
+- `declarativeNetRequestFeedback`: Required to count how many ads have been blocked.
 - `storage`: Stores the count of blocked ads.
 
 ## 🛠 Usage
